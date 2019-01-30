@@ -9,7 +9,7 @@ Random coding challenges and my attempt at solving them
 1. Given a number, find the next possible biggest number by reusing the number's digits.
 
 | Input         | Output        |
-| ------------- |:-------------:|
+|:-------------:|:-------------:|
 | 12            | 21            |
 | 122           | 212           |
 | 1234          | 1243          |
