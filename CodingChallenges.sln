@@ -7,6 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stamoun.CodingChallenges.Ne
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stamoun.CodingChallenges.NextBiggestNumber.Tests", "NextBiggestNumberTests\Stamoun.CodingChallenges.NextBiggestNumber.Tests.csproj", "{2ECD4C87-A4FC-4C08-A33E-F83FAC4879B2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5246F576-E425-474F-8A2C-60CB5E9DA0ED}"
+ProjectSection(SolutionItems) = preProject
+	LICENSE = LICENSE
+	README.md = README.md
+	.gitignore = .gitignore
+EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

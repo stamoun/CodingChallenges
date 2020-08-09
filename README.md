@@ -2,6 +2,8 @@
 
 Random coding challenges and my attempt at solving them
 
+[![Build status](https://ci.appveyor.com/api/projects/status/dx85ge3cycwcjj7l?svg=true)](https://ci.appveyor.com/project/stamoun/codingchallenges)
+
 ### 1. Next Biggest Number
 
 #### Rules
